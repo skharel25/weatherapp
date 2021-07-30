@@ -1,0 +1,3 @@
+This app is designed to be run using flutter 2.9 as some of the libraries used in the app were not updated to be null safe as of the making of this app.
+As such, the main.dart file in this repo already has the necessary code to default to running in dart 2.9. Other than that, everything on the app is straigntforward
+and simple to use.
